@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proposal.aux
+A level-1 auxiliary file: FrontBackMatter/Titlepage.aux
+A level-1 auxiliary file: FrontBackMatter/Titleback.aux
+A level-1 auxiliary file: FrontBackMatter/Abstract.aux
+A level-1 auxiliary file: FrontBackMatter/Contents.aux
+A level-1 auxiliary file: Chapters/Chapter01.aux
+A level-1 auxiliary file: Chapters/Chapter02.aux
+A level-1 auxiliary file: Chapters/Chapter03.aux
+A level-1 auxiliary file: Chapters/Chapter04.aux
+A level-1 auxiliary file: Chapters/Chapter05.aux
+A level-1 auxiliary file: FrontBackMatter/Bibliography.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: Bibliography.bib
+apacite.bst [2012/02/25 v6.01 APA bibliography style]
+Warning--No journal in breiman2003manual
+ptr=1, stack=
+
+---the literal stack isn't empty for entry breiman2003manual
+while executing---line 5227 of file apacite.bst
+Warning--No journal in kopf2010potential
+Warning--`others' not consistent with 6th ed. of the APA Manual
+Warning--No address in molnar2013
+Warning--No address in schochet2008technical
+Warning--No journal in silberzahn2014
+Warning--No journal in strasser1999asymptotic
+Warning--No journal in therneau2014introduction
+ptr=1, stack=
+
+---the literal stack isn't empty for entry therneau2014introduction
+while executing---line 5227 of file apacite.bst
+You've used 73 entries,
+            6735 wiz_defined-function locations,
+            1655 strings with 22728 characters,
+and the built_in function-call counts, 139007 in all, are:
+= -- 17422
+> -- 1229
+< -- 6490
++ -- 6718
+- -- 158
+* -- 8864
+:= -- 24850
+add.period$ -- 304
+call.type$ -- 73
+change.case$ -- 1278
+chr.to.int$ -- 0
+cite$ -- 153
+duplicate$ -- 3727
+empty$ -- 5515
+format.name$ -- 2030
+if$ -- 26695
+int.to.chr$ -- 0
+int.to.str$ -- 154
+missing$ -- 0
+newline$ -- 1850
+num.names$ -- 592
+pop$ -- 2454
+preamble$ -- 1
+purify$ -- 291
+quote$ -- 0
+skip$ -- 9010
+stack$ -- 0
+substring$ -- 7464
+swap$ -- 2159
+text.length$ -- 191
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 6288
+warning$ -- 8
+while$ -- 703
+width$ -- 0
+write$ -- 2335
+(There were 2 error messages)

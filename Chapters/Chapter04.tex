@@ -1,0 +1,43 @@
+% Chapter 4
+
+\chapter{The Problem} % Chapter title
+
+\label{ch:problem} % For referencing the chapter elsewhere
+
+
+	As shown in the previous section, extending the recursive partitioning framework to a variety of multilevel contexts has received much research attention, especially in the last few years. However, many questions remain unanswered with regard to the application of these methods in the social sciences. For one, this previous research is typically focused solely on predictive accuracy, rather than the data-driven identification of potential variables of interest in an exploratory context. To this extent, many of these previous examples attempt to extend recursive partitioning methods to very situational circumstances, inevitably making them less flexible. Moreover, many of these simulation studies mimic the data generating process found in scientific areas where these methods are common (e.g., genomics) that are often quite different than what is found in the social sciences more generally, and education specifically. In fact, no studies previously mentioned have actually examined the original non-parametric methods outlined in \autoref{ch:methods} in multilevel contexts commonly found in education research. As such, the performance of these methods with regard to surrogate splits, selection bias, and variable importance accuracy as applied to education data is not well understood. Below, I outline three questions that manifest themselves conceptually when considering the application of recursive partitioning methods to multilevel contexts commonly found in education research. 
+
+
+%----------------------------------------------------------------------------------------
+
+\section{CART level-2 variable selection}
+
+
+	Given the non-parametric nature of the CART algorithm, it would seem as though CART can be applied to multilevel contexts without much additional consideration. While this is mainly true, recall that the algorithm is inherently biased toward selecting variables with many potential split points. This effect could be compounded when considering whether the variable under consideration appears at the first level or the second level of analysis. With $N$ observations nested within $K$ clusters, the number of potential split points for a numeric variable (with no repeated values) at the first level will be $N - 1$, while the number of splits for the same variable at the second level will be $K - 1$. It is clear that if both of these variables have no relationship with the outcome, the variable measured at the lowest level will be selected more often purely due to chance. 
+
+
+	The categorical case, however, will not be as affected by this methodological issue assuming the clusters have the same number of observations. For a simple example, assume we are interested in measuring the entropy of a node that has a sample size of 16 (four observations nested within four clusters), along with a variable that is dichotomous. Suppose there exists a 50 percent chance of belonging into one outcome group versus the other. Because the observations are balanced within each cluster, the entropy of both situations is identical, regardless of whether the group was assigned at the cluster level or the observation level. 
+
+
+%----------------------------------------------------------------------------------------
+
+\section{The breakdown of conditional inference}
+
+
+	As mentioned previously, conditional inference trees assume data that are independent. Thus, the splitting procedure will be more likely to select a split in the presence of cluster-correlated data (i.e., an increased chance of a false positive for splitting), resulting in a tree that is more likely to overfit due to being too complex. Preliminary simulations indicate that while varying the level of the variation in the outcome due to the cluster-level (i.e., the intra-class correlation coefficient, or ICC) can result in some bias, the conditional inference procedure is most affected by the presence of non-independence due to the inclusion of level-2 variables in the splitting procedure. This follows conceptually from traditional regression techniques, where standard error inflation most often occurs due to the presence of level-2 variables incorporated at the first level of analysis \cite{luke2004multilevel}. 
+
+
+	Despite this methodological issue, conditional inference trees may still be useful in certain situations. For example, the rate of alpha inflation on data sets with only level-1 variables may result in trees that are still unbiased with respect to their splitting criteria, but just overfit the data due to non-independence. Simply altering the complexity parameter with cross-validation could be a potential solution to this issue. Additionally, trees are typically grown to maximum depth when creating a random forest. Conditional inference forests might still yield good predictive performance in the presence of non-independence, because conditional inference trees will have much more complexity in this case, which is removed in the aggregation procedure found in random forests. Regardless, many researchers might not realize the assumptions inherent to conditional inference trees, and inappropriately apply this method in multilevel contexts. Thus, it is important to identify situations where conditional inference is completely unreliable and where it might still be useful.
+
+
+%----------------------------------------------------------------------------------------
+
+\section{Underestimating OOB error}
+
+
+	In the random forest methodology, recall that approximately 37\% of all observations in a sample will not be chosen in each bootstrap, referred to as the OOB sample. In a cluster-correlated sample, however, observations within a given cluster are more related to other observations within that cluster compared with observations in other clusters. Thus, exposing a tree to a given observation within a cluster actually informs the tree about other observations within that same cluster. This results in trees that are correlated with one another, yielding an OOB error estimate that is overly optimistic \cite{karpievitch2009introspective}. This is most problematic when the intra-class correlation (ICC) is high, something not commonly found in cross-sectional multilevel models in education. 
+Both previous research \cite<i.e.,>{karpievitch2009introspective} and preliminary simulations suggest that this methodological artifact should not be too problematic with smaller ICC values. In other areas where higher ICCs are common (e.g., mass spectrometry), other non-parametric bootstrap methods might provide a more reliable OOB error estimate. An alternative solution for a more accurate estimate of the test error without altering the re-sampling process underlying the algorithm would be to use cross-validation on the clusters rather than the observations, which has been shown to provide approximately unbiased estimates of test error in the presence of dependent data \cite{rice1991estimating, segal1992tree}.
+
+
+	However, note that the OOB samples are not only used as an estimate of test error, but also used to create the permuted variable importance measures. Thus, an overly optimistic OOB error estimate could lead to additional bias being introduced to variable importance measures. Again, because this issue is not substantial when ICC values are low, I do not expect much bias in the variable importance measures to occur. Regardless, this issue remains an open question, and will be investigated more thoroughly in this dissertation. 
+

@@ -1,0 +1,1995 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Adler%
+, Brenning%
+, Potapov%
+, Schmid%
+\BCBL {}\ \BBA {} Lausen%
+}{%
+Adler%
+, Brenning%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+adler2011ensemble}
+\APACinsertmetastar {%
+adler2011ensemble}%
+\begin{APACrefauthors}%
+Adler, W.%
+, Brenning, A.%
+, Potapov, S.%
+, Schmid, M.%
+\BCBL {}\ \BBA {} Lausen, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ensemble classification of paired data} {Ensemble
+  classification of paired data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Statistics \& Data
+  Analysis}{55}{5}{1933--1941}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Adler%
+, Potapov%
+\BCBL {}\ \BBA {} Lausen%
+}{%
+Adler%
+, Potapov%
+\BCBL {}\ \BBA {} Lausen%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+adler2011classification}
+\APACinsertmetastar {%
+adler2011classification}%
+\begin{APACrefauthors}%
+Adler, W.%
+, Potapov, S.%
+\BCBL {}\ \BBA {} Lausen, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Classification of repeated measurements data using
+  tree-based ensemble methods} {Classification of repeated measurements data
+  using tree-based ensemble methods}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Statistics}{26}{2}{355--369}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Allen%
+, Pianta%
+, Gregory%
+, Mikami%
+\BCBL {}\ \BBA {} Lun%
+}{%
+Allen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+allen2011interaction}
+\APACinsertmetastar {%
+allen2011interaction}%
+\begin{APACrefauthors}%
+Allen, J\BPBI P.%
+, Pianta, R\BPBI C.%
+, Gregory, A.%
+, Mikami, A\BPBI Y.%
+\BCBL {}\ \BBA {} Lun, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An interaction-based approach to enhancing secondary
+  school instruction and student achievement} {An interaction-based approach to
+  enhancing secondary school instruction and student achievement}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{333}{6045}{1034--1037}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Berk%
+}{%
+Berk%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+berk2008statistical}
+\APACinsertmetastar {%
+berk2008statistical}%
+\begin{APACrefauthors}%
+Berk, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Statistical learning from a regression perspective}
+  {Statistical learning from a regression perspective}.
+\newblock
+\APACaddressPublisher{New York, NY}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bliese%
+}{%
+Bliese%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+multilevelR}
+\APACinsertmetastar {%
+multilevelR}%
+\begin{APACrefauthors}%
+Bliese, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {multilevel: Multilevel Functions} {multilevel:
+  Multilevel functions}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{http://CRAN.R-project.org/package=multilevel}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 2.5}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brandmaier%
+, von Oertzen%
+, McArdle%
+\BCBL {}\ \BBA {} Lindenberger%
+}{%
+Brandmaier%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+brandmaier2013structural}
+\APACinsertmetastar {%
+brandmaier2013structural}%
+\begin{APACrefauthors}%
+Brandmaier, A\BPBI M.%
+, von Oertzen, T.%
+, McArdle, J\BPBI J.%
+\BCBL {}\ \BBA {} Lindenberger, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structural equation model trees.} {Structural equation
+  model trees.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological methods}{18}{1}{71}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+breiman1996bagging}
+\APACinsertmetastar {%
+breiman1996bagging}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bagging predictors} {Bagging predictors}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{24}{2}{123--140}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2001}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+breiman2001random}
+\APACinsertmetastar {%
+breiman2001random}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Random forests} {Random forests}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{45}{1}{5--32}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2001}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+breiman2001statistical}
+\APACinsertmetastar {%
+breiman2001statistical}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Statistical Modeling: The Two Cultures} {Statistical
+  modeling: The two cultures}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical Science}{16}{3}{199--231}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+}{%
+Breiman%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+breiman2003manual}
+\APACinsertmetastar {%
+breiman2003manual}%
+\begin{APACrefauthors}%
+Breiman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Manual--Setting up, using and understanding random
+  forests v4.0} {Manual--setting up, using and understanding random forests
+  v4.0}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{http://oz. berkeley. edu/users/breiman}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Breiman%
+, Friedman%
+, Stone%
+\BCBL {}\ \BBA {} Olshen%
+}{%
+Breiman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1984}}%
+}]{%
+breiman1984classification}
+\APACinsertmetastar {%
+breiman1984classification}%
+\begin{APACrefauthors}%
+Breiman, L.%
+, Friedman, J.%
+, Stone, C\BPBI J.%
+\BCBL {}\ \BBA {} Olshen, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1984}.
+\newblock
+\APACrefbtitle {Classification and regression trees} {Classification and
+  regression trees}.
+\newblock
+\APACaddressPublisher{}{CRC press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+B{\"u}hlmann%
+\ \BBA {} Yu%
+}{%
+B{\"u}hlmann%
+\ \BBA {} Yu%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+buhlmann2002analyzing}
+\APACinsertmetastar {%
+buhlmann2002analyzing}%
+\begin{APACrefauthors}%
+B{\"u}hlmann, P.%
+\BCBT {}\ \BBA {} Yu, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Analyzing bagging} {Analyzing bagging}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annals of Statistics}{}{}{927--961}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Caruana%
+\ \BBA {} Niculescu-Mizil%
+}{%
+Caruana%
+\ \BBA {} Niculescu-Mizil%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+caruana2006empirical}
+\APACinsertmetastar {%
+caruana2006empirical}%
+\begin{APACrefauthors}%
+Caruana, R.%
+\BCBT {}\ \BBA {} Niculescu-Mizil, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An empirical comparison of supervised learning
+  algorithms} {An empirical comparison of supervised learning
+  algorithms}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 23rd international conference on
+  Machine learning} {Proceedings of the 23rd international conference on
+  machine learning}\ (\BPGS\ 161--168).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duncan%
+, Engel%
+, Claessens%
+\BCBL {}\ \BBA {} Dowsett%
+}{%
+Duncan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {in prep.}}%
+}]{%
+duncan2014}
+\APACinsertmetastar {%
+duncan2014}%
+\begin{APACrefauthors}%
+Duncan, G\BPBI J.%
+, Engel, M.%
+, Claessens, A.%
+\BCBL {}\ \BBA {} Dowsett, C\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{in prep.}{}{}.
+\newblock
+\APACrefbtitle {The value of replication for developmental science.} {The value
+  of replication for developmental science.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eliot%
+, Ferguson%
+, Reilly%
+\BCBL {}\ \BBA {} Foulkes%
+}{%
+Eliot%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+eliot2011ridge}
+\APACinsertmetastar {%
+eliot2011ridge}%
+\begin{APACrefauthors}%
+Eliot, M.%
+, Ferguson, J.%
+, Reilly, M\BPBI P.%
+\BCBL {}\ \BBA {} Foulkes, A\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ridge Regression for Longitudinal Biomarker Data} {Ridge
+  regression for longitudinal biomarker data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The international journal of
+  biostatistics}{7}{1}{1--11}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eo%
+\ \BBA {} Cho%
+}{%
+Eo%
+\ \BBA {} Cho%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+eo2013tree}
+\APACinsertmetastar {%
+eo2013tree}%
+\begin{APACrefauthors}%
+Eo, S\BHBI H.%
+\BCBT {}\ \BBA {} Cho, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tree-structured Mixed-effects Regression Modeling for
+  Longitudinal Data} {Tree-structured mixed-effects regression modeling for
+  longitudinal data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational and Graphical
+  Statistics}{23}{3}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Finkel%
+, Eastwick%
+\BCBL {}\ \BBA {} Reis%
+}{%
+Finkel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+finkelinpress}
+\APACinsertmetastar {%
+finkelinpress}%
+\begin{APACrefauthors}%
+Finkel, E\BPBI J.%
+, Eastwick, P\BPBI W.%
+\BCBL {}\ \BBA {} Reis, H\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Best research practices in psychology: Illustrating
+  epistemological and pragmatic considerations with the case of relationship
+  science} {Best research practices in psychology: Illustrating epistemological
+  and pragmatic considerations with the case of relationship science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Personality and Social Psychology}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fu%
+\ \BBA {} Simonoff%
+}{%
+Fu%
+\ \BBA {} Simonoff%
+}{%
+{\protect \APACyear {in prep}}%
+}]{%
+fu2014unbiased}
+\APACinsertmetastar {%
+fu2014unbiased}%
+\begin{APACrefauthors}%
+Fu, W.%
+\BCBT {}\ \BBA {} Simonoff, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{in prep}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Unbiased Regression Trees for Longitudinal Data}
+  {Unbiased regression trees for longitudinal data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Available at SSRN:}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{http://ssrn.com/abstract=2399976} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gelman%
+\ \BBA {} Loken%
+}{%
+Gelman%
+\ \BBA {} Loken%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+gelman2014statistical}
+\APACinsertmetastar {%
+gelman2014statistical}%
+\begin{APACrefauthors}%
+Gelman, A.%
+\BCBT {}\ \BBA {} Loken, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The statistical crisis in science} {The statistical
+  crisis in science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Scientist}{}{}{1--5}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hajjem%
+, Bellavance%
+\BCBL {}\ \BBA {} Larocque%
+}{%
+Hajjem%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+hajjem2011mixed}
+\APACinsertmetastar {%
+hajjem2011mixed}%
+\begin{APACrefauthors}%
+Hajjem, A.%
+, Bellavance, F.%
+\BCBL {}\ \BBA {} Larocque, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mixed effects regression trees for clustered data}
+  {Mixed effects regression trees for clustered data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics \& probability letters}{81}{4}{451--459}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hajjem%
+, Bellavance%
+\BCBL {}\ \BBA {} Larocque%
+}{%
+Hajjem%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+hajjem2014mixed}
+\APACinsertmetastar {%
+hajjem2014mixed}%
+\begin{APACrefauthors}%
+Hajjem, A.%
+, Bellavance, F.%
+\BCBL {}\ \BBA {} Larocque, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mixed-effects random forest for clustered data}
+  {Mixed-effects random forest for clustered data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Computation and
+  Simulation}{84}{6}{1313--1328}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hapfelmeier%
+}{%
+Hapfelmeier%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+hapfelmeier2012analysis}
+\APACinsertmetastar {%
+hapfelmeier2012analysis}%
+\begin{APACrefauthors}%
+Hapfelmeier, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Analysis of missing data with random forests} {Analysis of
+  missing data with random forests}.
+\newblock
+\BUPhD, LMU München: Faculty of Mathematics, Computer Science, and Statistics.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hapfelmeier%
+, Hothorn%
+\BCBL {}\ \BBA {} Ulm%
+}{%
+Hapfelmeier%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+hapfelmeier2012recursive}
+\APACinsertmetastar {%
+hapfelmeier2012recursive}%
+\begin{APACrefauthors}%
+Hapfelmeier, A.%
+, Hothorn, T.%
+\BCBL {}\ \BBA {} Ulm, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Recursive partitioning on incomplete data using
+  surrogate decisions and multiple imputation} {Recursive partitioning on
+  incomplete data using surrogate decisions and multiple imputation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Statistics \& Data
+  Analysis}{56}{6}{1552--1565}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hapfelmeier%
+, Hothorn%
+, Ulm%
+\BCBL {}\ \BBA {} Strobl%
+}{%
+Hapfelmeier%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+hapfelmeier2014new}
+\APACinsertmetastar {%
+hapfelmeier2014new}%
+\begin{APACrefauthors}%
+Hapfelmeier, A.%
+, Hothorn, T.%
+, Ulm, K.%
+\BCBL {}\ \BBA {} Strobl, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A new variable importance measure for random forests
+  with missing data} {A new variable importance measure for random forests with
+  missing data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics and Computing}{24}{1}{21--34}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hastie%
+\ \BBA {} Tibshirani%
+}{%
+Hastie%
+\ \BBA {} Tibshirani%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+hastie2013}
+\APACinsertmetastar {%
+hastie2013}%
+\begin{APACrefauthors}%
+Hastie, T.%
+\BCBT {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{December}{}.
+\newblock
+\APACrefbtitle {An interview with Jerome Friedman.} {An interview with jerome
+  friedman.}
+\newblock
+\begin{APACrefURL} \url{https://www.youtube.com/watch?v=79tR7BvYE6w}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hastie%
+, Tibshirani%
+\BCBL {}\ \BBA {} Friedman%
+}{%
+Hastie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+hastie2009elements}
+\APACinsertmetastar {%
+hastie2009elements}%
+\begin{APACrefauthors}%
+Hastie, T.%
+, Tibshirani, R.%
+\BCBL {}\ \BBA {} Friedman, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {The elements of statistical learning} {The elements of
+  statistical learning}\ (\PrintOrdinal{2}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hothorn%
+, B{\"u}hlmann%
+, Dudoit%
+, Molinaro%
+\BCBL {}\ \BBA {} Van Der~Laan%
+}{%
+Hothorn%
+, B{\"u}hlmann%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+hothorn2006survival}
+\APACinsertmetastar {%
+hothorn2006survival}%
+\begin{APACrefauthors}%
+Hothorn, T.%
+, B{\"u}hlmann, P.%
+, Dudoit, S.%
+, Molinaro, A.%
+\BCBL {}\ \BBA {} Van Der~Laan, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Survival ensembles} {Survival ensembles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biostatistics}{7}{3}{355--373}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hothorn%
+, Hornik%
+\BCBL {}\ \BBA {} Zeileis%
+}{%
+Hothorn%
+, Hornik%
+\BCBL {}\ \BBA {} Zeileis%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+hothorn2006unbiased}
+\APACinsertmetastar {%
+hothorn2006unbiased}%
+\begin{APACrefauthors}%
+Hothorn, T.%
+, Hornik, K.%
+\BCBL {}\ \BBA {} Zeileis, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Unbiased recursive partitioning: A conditional inference
+  framework} {Unbiased recursive partitioning: A conditional inference
+  framework}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational and Graphical
+  statistics}{15}{3}{651--674}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ioannidis%
+}{%
+Ioannidis%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+ioannidis2005most}
+\APACinsertmetastar {%
+ioannidis2005most}%
+\begin{APACrefauthors}%
+Ioannidis, J\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Why most published research findings are false} {Why
+  most published research findings are false}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS medicine}{2}{8}{e124}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+, Witten%
+, Hastie%
+\BCBL {}\ \BBA {} Tibshirani%
+}{%
+James%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+james2013introduction}
+\APACinsertmetastar {%
+james2013introduction}%
+\begin{APACrefauthors}%
+James, G.%
+, Witten, D.%
+, Hastie, T.%
+\BCBL {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013{\protect \BCnt {1}}}.
+\newblock
+\APACrefbtitle {An introduction to statistical learning} {An introduction to
+  statistical learning}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+, Witten%
+, Hastie%
+\BCBL {}\ \BBA {} Tibshirani%
+}{%
+James%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ISLRR}
+\APACinsertmetastar {%
+ISLRR}%
+\begin{APACrefauthors}%
+James, G.%
+, Witten, D.%
+, Hastie, T.%
+\BCBL {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ISLR: Data for An Introduction to Statistical Learning
+  with Applications in R} {Islr: Data for an introduction to statistical
+  learning with applications in r}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{http://CRAN.R-project.org/package=ISLR}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.0}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Karpievitch%
+, Hill%
+, Leclerc%
+, Dabney%
+\BCBL {}\ \BBA {} Almeida%
+}{%
+Karpievitch%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+karpievitch2009introspective}
+\APACinsertmetastar {%
+karpievitch2009introspective}%
+\begin{APACrefauthors}%
+Karpievitch, Y\BPBI V.%
+, Hill, E\BPBI G.%
+, Leclerc, A\BPBI P.%
+, Dabney, A\BPBI R.%
+\BCBL {}\ \BBA {} Almeida, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introspective comparison of random forest-based
+  classifiers for the analysis of cluster-correlated data by way of RF++} {An
+  introspective comparison of random forest-based classifiers for the analysis
+  of cluster-correlated data by way of rf++}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PloS one}{4}{9}{e7087}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kopf%
+, Augustin%
+\BCBL {}\ \BBA {} Strobl%
+}{%
+Kopf%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+kopf2010potential}
+\APACinsertmetastar {%
+kopf2010potential}%
+\begin{APACrefauthors}%
+Kopf, J.%
+, Augustin, T.%
+\BCBL {}\ \BBA {} Strobl, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The potential of model-based recursive partitioning in
+  the social sciences: Revisiting Ockham's Razor} {The potential of model-based
+  recursive partitioning in the social sciences: Revisiting ockham's
+  razor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{75-95}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liaw%
+\ \BBA {} Wiener%
+}{%
+Liaw%
+\ \BBA {} Wiener%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+liaw2002classification}
+\APACinsertmetastar {%
+liaw2002classification}%
+\begin{APACrefauthors}%
+Liaw, A.%
+\BCBT {}\ \BBA {} Wiener, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Classification and Regression by randomForest}
+  {Classification and regression by randomforest}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{R news}{2}{3}{18--22}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Loh%
+}{%
+Loh%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+loh2002regression}
+\APACinsertmetastar {%
+loh2002regression}%
+\begin{APACrefauthors}%
+Loh, W\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Regression trees with unbiased variable selection and
+  interaction detection} {Regression trees with unbiased variable selection and
+  interaction detection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistica Sinica}{12}{2}{361--386}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Loh%
+\ \BBA {} Shih%
+}{%
+Loh%
+\ \BBA {} Shih%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+loh1997split}
+\APACinsertmetastar {%
+loh1997split}%
+\begin{APACrefauthors}%
+Loh, W\BHBI Y.%
+\BCBT {}\ \BBA {} Shih, Y\BHBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Split selection methods for classification trees} {Split
+  selection methods for classification trees}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistica sinica}{7}{4}{815--840}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Loh%
+, Zheng%
+\BCBL {}\ \protect \BOthers {.}}{%
+Loh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+loh2013regression}
+\APACinsertmetastar {%
+loh2013regression}%
+\begin{APACrefauthors}%
+Loh, W\BHBI Y.%
+, Zheng, W.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Regression trees for longitudinal and multiresponse
+  data} {Regression trees for longitudinal and multiresponse data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Annals of Applied Statistics}{7}{1}{495--522}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luke%
+}{%
+Luke%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+luke2004multilevel}
+\APACinsertmetastar {%
+luke2004multilevel}%
+\begin{APACrefauthors}%
+Luke, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {Multilevel modeling} {Multilevel modeling}.
+\newblock
+\APACaddressPublisher{}{Sage}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Makel%
+\ \BBA {} Plucker%
+}{%
+Makel%
+\ \BBA {} Plucker%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+makel2014facts}
+\APACinsertmetastar {%
+makel2014facts}%
+\begin{APACrefauthors}%
+Makel, M\BPBI C.%
+\BCBT {}\ \BBA {} Plucker, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Facts Are More Important Than Novelty Replication in the
+  Education Sciences} {Facts are more important than novelty replication in the
+  education sciences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Educational Researcher}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Martin%
+\ \BBA {} von Oertzen%
+}{%
+Martin%
+\ \BBA {} von Oertzen%
+}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+martin2014growth}
+\APACinsertmetastar {%
+martin2014growth}%
+\begin{APACrefauthors}%
+Martin, D\BPBI P.%
+\BCBT {}\ \BBA {} von Oertzen, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Growth mixture models outperform simpler clustering
+  algorithms when detecting longitudinal heterogeneity, even with small sample
+  sizes} {Growth mixture models outperform simpler clustering algorithms when
+  detecting longitudinal heterogeneity, even with small sample sizes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Structural Equation Modeling}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McArdle%
+}{%
+McArdle%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+mcardle2013}
+\APACinsertmetastar {%
+mcardle2013}%
+\begin{APACrefauthors}%
+McArdle, J\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Exploratory data mining using decision trees in the
+  behavioral sciences} {Exploratory data mining using decision trees in the
+  behavioral sciences}.{\BBCQ}
+\newblock
+\BIn{} J\BPBI J.~McArdle\ \BBA {} G.~Ritschard\ (\BEDS), \APACrefbtitle
+  {Contemporary issues in exploratory data mining in the behavioral sciences}
+  {Contemporary issues in exploratory data mining in the behavioral sciences}\
+  (\BPG~3-47).
+\newblock
+\APACaddressPublisher{New York, NY}{Routledge}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Molnar%
+}{%
+Molnar%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+molnar2013}
+\APACinsertmetastar {%
+molnar2013}%
+\begin{APACrefauthors}%
+Molnar, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Recursive partitioning by conditional inference} {Recursive
+  partitioning by conditional inference}\ \APACbVolEdTR {}{Seminar Paper}.
+\newblock
+\APACaddressInstitution{}{LMU: Department of Statistics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Morgan%
+\ \BBA {} Sonquist%
+}{%
+Morgan%
+\ \BBA {} Sonquist%
+}{%
+{\protect \APACyear {1963}}%
+}]{%
+morgan1963problems}
+\APACinsertmetastar {%
+morgan1963problems}%
+\begin{APACrefauthors}%
+Morgan, J\BPBI N.%
+\BCBT {}\ \BBA {} Sonquist, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1963}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Problems in the analysis of survey data, and a proposal}
+  {Problems in the analysis of survey data, and a proposal}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Statistical
+  Association}{58}{302}{415--434}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nosek%
+, Spies%
+\BCBL {}\ \BBA {} Motyl%
+}{%
+Nosek%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+nosek2012scientific}
+\APACinsertmetastar {%
+nosek2012scientific}%
+\begin{APACrefauthors}%
+Nosek, B\BPBI A.%
+, Spies, J\BPBI R.%
+\BCBL {}\ \BBA {} Motyl, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Scientific utopia II: Restructuring incentives and
+  practices to promote truth over publishability} {Scientific utopia ii:
+  Restructuring incentives and practices to promote truth over
+  publishability}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Perspectives on Psychological Science}{7}{6}{615--631}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Open Science Collaboration}%
+}{%
+{Open Science Collaboration}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+osc2014}
+\APACinsertmetastar {%
+osc2014}%
+\begin{APACrefauthors}%
+{Open Science Collaboration}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The reproducibility project: A model of large-scale
+  collaboration for empirical research on reproducibility} {The reproducibility
+  project: A model of large-scale collaboration for empirical research on
+  reproducibility}.{\BBCQ}
+\newblock
+\BIn{} V.~Stodden, F.~Leisch\BCBL {}\ \BBA {} R.~Peng\ (\BEDS), \APACrefbtitle
+  {Implementing Reproducible Computational Research} {Implementing reproducible
+  computational research}\ (\BPG~299-323).
+\newblock
+\APACaddressPublisher{New York, NY}{Taylor \& Francis}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Open Science Collaboration}%
+}{%
+{Open Science Collaboration}%
+}{%
+{\protect \APACyear {{\protect \BIP {}}}}%
+}]{%
+oscinpress}
+\APACinsertmetastar {%
+oscinpress}%
+\begin{APACrefauthors}%
+{Open Science Collaboration}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \BIP {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Maximizing the reproducibility of your research}
+  {Maximizing the reproducibility of your research}.{\BBCQ}
+\newblock
+\BIn{} S\BPBI O.~Lilienfeld\ \BBA {} I\BPBI D.~Waldman\ (\BEDS), \APACrefbtitle
+  {Psychological Science Under Scrutiny: Recent Challenges and Proposed
+  Solutions.} {Psychological science under scrutiny: Recent challenges and
+  proposed solutions.}
+\newblock
+\APACaddressPublisher{New York, NY}{Wiley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pedregosa%
+\ \protect \BOthers {.}}{%
+Pedregosa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+pedregosa2011scikit}
+\APACinsertmetastar {%
+pedregosa2011scikit}%
+\begin{APACrefauthors}%
+Pedregosa, F.%
+, Varoquaux, G.%
+, Gramfort, A.%
+, Michel, V.%
+, Thirion, B.%
+, Grisel, O.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Scikit-learn: Machine learning in Python} {Scikit-learn:
+  Machine learning in python}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Machine Learning
+  Research}{12}{}{2825--2830}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peugh%
+}{%
+Peugh%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+peugh2010practical}
+\APACinsertmetastar {%
+peugh2010practical}%
+\begin{APACrefauthors}%
+Peugh, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A practical guide to multilevel modeling} {A practical
+  guide to multilevel modeling}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of School Psychology}{48}{1}{85--112}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Prindle%
+, Brandmaier%
+, McArdle%
+\BCBL {}\ \BBA {} Lindenberger%
+}{%
+Prindle%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+prindle2014}
+\APACinsertmetastar {%
+prindle2014}%
+\begin{APACrefauthors}%
+Prindle, J\BPBI J.%
+, Brandmaier, A\BPBI M.%
+, McArdle, J\BPBI J.%
+\BCBL {}\ \BBA {} Lindenberger, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {Exploratory modeling with structural equation model forests.}
+  {Exploratory modeling with structural equation model forests.}
+\newblock
+\APACrefnote{Poster presented at the 16th annual meeting of the Association for
+  Psychological Science, San Francisco, CA.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quinlan%
+}{%
+Quinlan%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+quinlan1986induction}
+\APACinsertmetastar {%
+quinlan1986induction}%
+\begin{APACrefauthors}%
+Quinlan, J\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Induction of decision trees} {Induction of decision
+  trees}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{1}{1}{81--106}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quinlan%
+\ \BBA {} Cameron-Jones%
+}{%
+Quinlan%
+\ \BBA {} Cameron-Jones%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+quinlan1995oversearching}
+\APACinsertmetastar {%
+quinlan1995oversearching}%
+\begin{APACrefauthors}%
+Quinlan, J\BPBI R.%
+\BCBT {}\ \BBA {} Cameron-Jones, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Oversearching and Layered Search in Empirical Learning}
+  {Oversearching and layered search in empirical learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceesings of the 14th International Joint Conference
+  on Artificial Intelligence} {Proceesings of the 14th international joint
+  conference on artificial intelligence}\ (\BVOL~2, \BPGS\ 1019--1024).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Rcore}
+\APACinsertmetastar {%
+Rcore}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {R: A Language and Environment for Statistical Computing}
+  {R: A language and environment for statistical computing}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACaddressPublisher{Vienna, Austria}{}.
+\newblock
+\begin{APACrefURL} \url{http://www.R-project.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raileanu%
+\ \BBA {} Stoffel%
+}{%
+Raileanu%
+\ \BBA {} Stoffel%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+raileanu2004theoretical}
+\APACinsertmetastar {%
+raileanu2004theoretical}%
+\begin{APACrefauthors}%
+Raileanu, L\BPBI E.%
+\BCBT {}\ \BBA {} Stoffel, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Theoretical comparison between the Gini index and
+  information gain criteria} {Theoretical comparison between the gini index and
+  information gain criteria}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annals of Mathematics and Artificial
+  Intelligence}{41}{1}{77--93}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rice%
+\ \BBA {} Silverman%
+}{%
+Rice%
+\ \BBA {} Silverman%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+rice1991estimating}
+\APACinsertmetastar {%
+rice1991estimating}%
+\begin{APACrefauthors}%
+Rice, J\BPBI A.%
+\BCBT {}\ \BBA {} Silverman, B\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimating the mean and covariance structure
+  nonparametrically when the data are curves} {Estimating the mean and
+  covariance structure nonparametrically when the data are curves}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Royal Statistical Society. Series B
+  (Methodological)}{}{}{233--243}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rieger%
+, Hothorn%
+\BCBL {}\ \BBA {} Strobl%
+}{%
+Rieger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+rieger2010random}
+\APACinsertmetastar {%
+rieger2010random}%
+\begin{APACrefauthors}%
+Rieger, A.%
+, Hothorn, T.%
+\BCBL {}\ \BBA {} Strobl, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+\APACrefbtitle {Random forests with missing values in the covariates.} {Random
+  forests with missing values in the covariates.}
+\newblock
+\APACrefnote{Department of Statistics: Technical Reports, No. 79}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rimm-Kaufman%
+\ \protect \BOthers {.}}{%
+Rimm-Kaufman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+rimm2013efficacy}
+\APACinsertmetastar {%
+rimm2013efficacy}%
+\begin{APACrefauthors}%
+Rimm-Kaufman, S\BPBI E.%
+, Larsen, R.%
+, Baroody, A.%
+, Curby, T.%
+, Merritt, E.%
+, Abry, T.%
+\BDBL {}Ko, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficacy of the Responsive Classroom approach: Results
+  from a three year, longitudinal randomized control trial} {Efficacy of the
+  responsive classroom approach: Results from a three year, longitudinal
+  randomized control trial}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Educational Research Journal}{51}{3}{567-603}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rubin%
+}{%
+Rubin%
+}{%
+{\protect \APACyear {1976}}%
+}]{%
+rubin1976inference}
+\APACinsertmetastar {%
+rubin1976inference}%
+\begin{APACrefauthors}%
+Rubin, D\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inference and missing data} {Inference and missing
+  data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biometrika}{63}{3}{581--592}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schelldorfer%
+, B{\"u}hlmann%
+\BCBL {}\ \BBA {} {van de Geer}%
+}{%
+Schelldorfer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+schelldorfer2011estimation}
+\APACinsertmetastar {%
+schelldorfer2011estimation}%
+\begin{APACrefauthors}%
+Schelldorfer, J.%
+, B{\"u}hlmann, P.%
+\BCBL {}\ \BBA {} {van de Geer}, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimation for High-Dimensional Linear Mixed-Effects
+  Models Using L1-Penalization} {Estimation for high-dimensional linear
+  mixed-effects models using l1-penalization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scandinavian Journal of Statistics}{38}{2}{197--214}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schochet%
+}{%
+Schochet%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+schochet2008technical}
+\APACinsertmetastar {%
+schochet2008technical}%
+\begin{APACrefauthors}%
+Schochet, P\BPBI Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {Technical Methods Report: Guidelines for Multiple Testing in
+  Impact Evaluations.} {Technical methods report: Guidelines for multiple
+  testing in impact evaluations.}\ \APACbVolEdTR{}{\BTR{}\ \BNUM\ NCEE
+  2008-4018}.
+\newblock
+\APACaddressInstitution{}{National Center for Education Evaluation and Regional
+  Assistance}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Segal%
+}{%
+Segal%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+segal1992tree}
+\APACinsertmetastar {%
+segal1992tree}%
+\begin{APACrefauthors}%
+Segal, M\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tree-structured methods for longitudinal data}
+  {Tree-structured methods for longitudinal data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Statistical
+  Association}{87}{418}{407--418}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Segal%
+}{%
+Segal%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+segal1994representative}
+\APACinsertmetastar {%
+segal1994representative}%
+\begin{APACrefauthors}%
+Segal, M\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Representative curves for longitudinal data via
+  regression trees} {Representative curves for longitudinal data via regression
+  trees}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational and Graphical
+  Statistics}{3}{2}{214--233}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sela%
+\ \BBA {} Simonoff%
+}{%
+Sela%
+\ \BBA {} Simonoff%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+sela2012re}
+\APACinsertmetastar {%
+sela2012re}%
+\begin{APACrefauthors}%
+Sela, R\BPBI J.%
+\BCBT {}\ \BBA {} Simonoff, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {RE-EM trees: a data mining approach for longitudinal and
+  clustered data} {Re-em trees: a data mining approach for longitudinal and
+  clustered data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{86}{2}{169--207}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shmueli%
+}{%
+Shmueli%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+shmueli2010explain}
+\APACinsertmetastar {%
+shmueli2010explain}%
+\begin{APACrefauthors}%
+Shmueli, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {To explain or to predict?} {To explain or to
+  predict?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical Science}{}{}{289--310}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Silberzahn%
+, Uhlmann%
+, Martin%
+\BCBL {}\ \BBA {} Nosek%
+}{%
+Silberzahn%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {in prep}}%
+}]{%
+silberzahn2014}
+\APACinsertmetastar {%
+silberzahn2014}%
+\begin{APACrefauthors}%
+Silberzahn, R\BPBI S.%
+, Uhlmann, E\BPBI L.%
+, Martin, D\BPBI P.%
+\BCBL {}\ \BBA {} Nosek, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{in prep}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Crowdsourcing data analysis: Do soccer referees give
+  more red cards to dark skin toned players?} {Crowdsourcing data analysis: Do
+  soccer referees give more red cards to dark skin toned players?}{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Simmons%
+, Nelson%
+\BCBL {}\ \BBA {} Simonsohn%
+}{%
+Simmons%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+simmons2011false}
+\APACinsertmetastar {%
+simmons2011false}%
+\begin{APACrefauthors}%
+Simmons, J\BPBI P.%
+, Nelson, L\BPBI D.%
+\BCBL {}\ \BBA {} Simonsohn, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {False-positive psychology undisclosed flexibility in
+  data collection and analysis allows presenting anything as significant}
+  {False-positive psychology undisclosed flexibility in data collection and
+  analysis allows presenting anything as significant}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Science}{22}{11}{1359--1366}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strasser%
+\ \BBA {} Weber%
+}{%
+Strasser%
+\ \BBA {} Weber%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+strasser1999asymptotic}
+\APACinsertmetastar {%
+strasser1999asymptotic}%
+\begin{APACrefauthors}%
+Strasser, H.%
+\BCBT {}\ \BBA {} Weber, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the asymptotic theory of permutation statistics} {On
+  the asymptotic theory of permutation statistics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{8}{}{220-250}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strobl%
+, Boulesteix%
+, Zeileis%
+\BCBL {}\ \BBA {} Hothorn%
+}{%
+Strobl%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+strobl2007bias}
+\APACinsertmetastar {%
+strobl2007bias}%
+\begin{APACrefauthors}%
+Strobl, C.%
+, Boulesteix, A\BHBI L.%
+, Zeileis, A.%
+\BCBL {}\ \BBA {} Hothorn, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bias in random forest variable importance measures:
+  Illustrations, sources and a solution} {Bias in random forest variable
+  importance measures: Illustrations, sources and a solution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BMC Bioinformatics}{8}{1}{25}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Strobl%
+, Malley%
+\BCBL {}\ \BBA {} Tutz%
+}{%
+Strobl%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+strobl2009introduction}
+\APACinsertmetastar {%
+strobl2009introduction}%
+\begin{APACrefauthors}%
+Strobl, C.%
+, Malley, J.%
+\BCBL {}\ \BBA {} Tutz, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introduction to recursive partitioning: Rationale,
+  application, and characteristics of classification and regression trees,
+  bagging, and random forests.} {An introduction to recursive partitioning:
+  Rationale, application, and characteristics of classification and regression
+  trees, bagging, and random forests.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Methods}{14}{4}{323--348}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Therneau%
+\ \BBA {} Atkinson%
+}{%
+Therneau%
+\ \BBA {} Atkinson%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+therneau2014introduction}
+\APACinsertmetastar {%
+therneau2014introduction}%
+\begin{APACrefauthors}%
+Therneau, T\BPBI M.%
+\BCBT {}\ \BBA {} Atkinson, E\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An introduction to recursive partitioning using the
+  RPART routines} {An introduction to recursive partitioning using the rpart
+  routines}.{\BBCQ}
+\newblock
+\begin{APACrefURL}
+  \url{http://cran.r-project.org/web/packages/rpart/vignettes/longintro.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tucker%
+}{%
+Tucker%
+}{%
+{\protect \APACyear {1966}}%
+}]{%
+tucker1966}
+\APACinsertmetastar {%
+tucker1966}%
+\begin{APACrefauthors}%
+Tucker, L\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1966}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning theory and multivariate experiment:
+  Illustration by determination of generalized learning curves.} {Learning
+  theory and multivariate experiment: Illustration by determination of
+  generalized learning curves.}{\BBCQ}
+\newblock
+\BIn{} R\BPBI B.~Cattell\ (\BED), \APACrefbtitle {Handbook of multivariate
+  experimental psychology.} {Handbook of multivariate experimental psychology.}
+\newblock
+\APACaddressPublisher{}{Rand McNally}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tukey%
+}{%
+Tukey%
+}{%
+{\protect \APACyear {1977}}%
+}]{%
+tukey1977exploratory}
+\APACinsertmetastar {%
+tukey1977exploratory}%
+\begin{APACrefauthors}%
+Tukey, J\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1977}.
+\newblock
+\APACrefbtitle {Exploratory data analysis} {Exploratory data analysis}.
+\newblock
+\APACaddressPublisher{Reading, Mass.}{Addison-Wesley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wagenmakers%
+, Wetzels%
+, Borsboom%
+, van~der Maas%
+\BCBL {}\ \BBA {} Kievit%
+}{%
+Wagenmakers%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+wagenmakers2012agenda}
+\APACinsertmetastar {%
+wagenmakers2012agenda}%
+\begin{APACrefauthors}%
+Wagenmakers, E\BHBI J.%
+, Wetzels, R.%
+, Borsboom, D.%
+, van~der Maas, H\BPBI L.%
+\BCBL {}\ \BBA {} Kievit, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An agenda for purely confirmatory research} {An agenda
+  for purely confirmatory research}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Perspectives on Psychological Science}{7}{6}{632--638}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeileis%
+, Hothorn%
+\BCBL {}\ \BBA {} Hornik%
+}{%
+Zeileis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+zeileis2008model}
+\APACinsertmetastar {%
+zeileis2008model}%
+\begin{APACrefauthors}%
+Zeileis, A.%
+, Hothorn, T.%
+\BCBL {}\ \BBA {} Hornik, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Model-based recursive partitioning} {Model-based
+  recursive partitioning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational and Graphical
+  Statistics}{17}{2}{492--514}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

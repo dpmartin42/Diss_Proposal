@@ -1,0 +1,23 @@
+\select@language {american}
+\deactivateaddvspace 
+\select@language {american}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces An example decision tree.}}{8}{figure.caption.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{8}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{8}{subfigure.1.2}
+\contentsline {figure}{\numberline {2}{\ignorespaces The bias-variance tradeoff in the graduation rate data.}}{9}{figure.caption.6}
+\contentsline {figure}{\numberline {3}{\ignorespaces Using cost-complexity pruning on the graduation rate data set.}}{11}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces The relation between classification error, the Gini index, and cross-entropy.}}{12}{figure.caption.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces A comparison of a conditional inference tree and a pruned CART tree.}}{17}{figure.caption.9}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}{subfigure.5.2}
+\contentsline {figure}{\numberline {6}{\ignorespaces Variable importance for a CART random forest.}}{20}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces Partial dependence plots for the graduation rate data.}}{21}{figure.caption.11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{21}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{21}{subfigure.7.2}
+\contentsline {figure}{\numberline {8}{\ignorespaces Comparing the actual relation between out-of-state tuition with the relationship that was predicted with the random forest model.}}{22}{figure.caption.12}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9}{\ignorespaces My proposed dissertation timeline.}}{39}{figure.caption.15}

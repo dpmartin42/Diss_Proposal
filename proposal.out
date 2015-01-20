@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{Abstract.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{tableofcontents.1}{Contents}{}% 2
+\BOOKMARK [1][-]{lof.1}{List of Figures}{}% 3
+\BOOKMARK [1][-]{lot.1}{List of Tables}{}% 4
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 5
+\BOOKMARK [0][]{chapter.2}{2 Recursive partitioning and ensemble methods}{}% 6
+\BOOKMARK [1][-]{section.2.1}{2.1 Classification and regression trees}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Understanding the bias-variance tradeoff}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Pruning decision trees with cross-validation}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 CART with a categorical outcome}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Pros and cons of CART}{section.2.1}% 11
+\BOOKMARK [1][-]{section.2.2}{2.2 Conditional inference trees}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Pros and cons of conditional inference trees}{section.2.2}% 13
+\BOOKMARK [1][-]{section.2.3}{2.3 Random Forests}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Out-of-bag samples}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Variable importance}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Partial dependence plots}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Conditional inference forests}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.5}{2.3.5 Pros and cons of Random Forests}{section.2.3}% 19
+\BOOKMARK [1][-]{section.2.4}{2.4 Handling missing data}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.5}{2.5 Other predictive methods}{chapter.2}% 21
+\BOOKMARK [0][]{chapter.3}{3 Recursive Partitioning and Multilevel Data}{}% 22
+\BOOKMARK [0][]{chapter.4}{4 The Problem}{}% 23
+\BOOKMARK [1][-]{section.4.1}{4.1 CART level-2 variable selection}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.2}{4.2 The breakdown of conditional inference}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.3}{4.3 Underestimating OOB error}{chapter.4}% 26
+\BOOKMARK [0][]{chapter.5}{5 The Proposal}{}% 27
+\BOOKMARK [1][-]{section.5.1}{5.1 Simulation phase}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.2}{5.2 Application phase}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.3}{5.3 Dissemination phase}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.4}{5.4 Timeline}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.5}{5.5 Conclusion}{chapter.5}% 32
+\BOOKMARK [1][-]{dummy.4}{References}{chapter.5}% 33
