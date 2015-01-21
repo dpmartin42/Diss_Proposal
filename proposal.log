@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 JAN 2015 15:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 JAN 2015 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1180,12 +1180,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
 (./FrontBackMatter/Titleback.aux) (./FrontBackMatter/Abstract.aux)
 (./FrontBackMatter/Contents.aux) (./Chapters/Chapter01.aux)
 (./Chapters/Chapter02.aux) (./Chapters/Chapter03.aux) (./Chapters/Chapter04.aux
-) (./Chapters/Chapter05.aux) (./FrontBackMatter/Bibliography.aux)
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
+) (./Chapters/Chapter05.aux) (./FrontBackMatter/Bibliography.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
@@ -1199,7 +1194,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
 Here is how much of TeX's memory you used:
  15828 strings out of 493315
  246760 string characters out of 6137904
- 516664 words of memory out of 5000000
+ 516670 words of memory out of 5000000
  18642 multiletter control sequences out of 15000+600000
  82828 words of font info for 136 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1222,7 +1217,7 @@ ve/2013/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2013
 ist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2013/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on proposal.pdf (52 pages, 370280 bytes).
+Output written on proposal.pdf (52 pages, 370275 bytes).
 PDF statistics:
  1049 PDF objects out of 1200 (max. 8388607)
  933 compressed objects within 10 object streams
